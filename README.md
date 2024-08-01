@@ -3,7 +3,7 @@
 
 <h3>Technical Skills</h3>
 <ul>
- <li><strong>Backend:</strong>> C#, .NET, </li>
+ <li><strong>Backend:</strong> C#, .NET, </li>
  <li><strong>Frontend:</strong> Angular, Performance Optimization, User Accessibility </li>
  <li><strong>Cloud:</strong> Azure</li>
 <li><strong>Databases:</strong> MsSQL, MySQL</li>

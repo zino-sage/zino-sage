@@ -13,7 +13,7 @@
 
 <h3>Contact Me</h3>
 <ul>
- <li><strong>email:</strong> <a href="mazinookaforc@gmail.com">mazinookaforc@gmail.com</a> </li>
+ <li><strong>email:</strong> <a href="mailto:mazinookaforc@gmail.com">mazinookaforc@gmail.com</a> </li>
  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mazino-okafor-9045a0166/">Mazino Okafor</a>  </li>
  
 </ul>

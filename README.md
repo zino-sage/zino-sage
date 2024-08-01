@@ -1,6 +1,6 @@
- Hi there 👋 I am a software engineer especially interested in building web applications. Specialized in interpreting business requirements to build software, 
- in Scrum and Agile environments, that meets customer needs, scaling systems up, and shipping reliable applications.
+ Hi there 👋 I am Mazino Okafor, a dedicated software engineer with a keen interest in developing innovative web applications. My expertise lies in translating complex business requirements into robust software solutions within Agile and Scrum environments. I excel in scaling systems to meet growing demands and ensuring the delivery of reliable, high-quality applications.
 
+ 
 <h3>Technical Skills</h3>
 <ul>
  <li><strong>Backend:</strong> C#, .NET, </li>
@@ -11,6 +11,12 @@
 </ul>
 
 
+<h3>Contact Me</h3>
+<ul>
+ <li><strong>email:</strong> <a>mazinookaforc@gmail.com</a> </li>
+ <li><strong>LinkedIn:</strong>  </li>
+ 
+</ul>
 
 
 <!--

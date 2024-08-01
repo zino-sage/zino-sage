@@ -1,5 +1,13 @@
- Hi there 👋 I am a software engineer especially interested in building web applications. Specialized in interpreting/clarifying business requirements to build software, 
+ Hi there 👋 I am a software engineer especially interested in building web applications. Specialized in interpreting business requirements to build software, 
  in Scrum and Agile environments, that meets customer needs, scaling systems up, and shipping reliable applications.
+
+Technical Skills
+Backend: C#, .NET, 
+Frontend: Angular, Performance Optimization, User Accessibility
+Cloud: Azure
+Databases: MsSQL, MySQL
+CI/CD: GitHub, Azure DevOps
+
 
 
 <!--
